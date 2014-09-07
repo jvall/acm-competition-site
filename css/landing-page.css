@@ -31,17 +31,17 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
+    background-color: #000000;
 }
 
 #video_background {
     position: absolute;
     bottom: 0px;
     right: 0px;
-    min-width: 100%;
-    min-height: 100%;
+    min-width: 90%;
+    min-height: 90%;
     width: auto;
     height: auto;
-    z-index: -1000;
     overflow: hidden;
 }
 
